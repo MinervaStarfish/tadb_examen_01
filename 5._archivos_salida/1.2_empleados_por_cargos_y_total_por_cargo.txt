@@ -1,0 +1,44 @@
+-- Correo: mariana.osorioro@upb.edu.co
+-- Estudiante: Mariana Osorio Rojas
+-- ID: 464679
+
+
+-- Universidad Pontificia Bolivariana
+-- Facultad de Ingenierías - Ingeniería de Sistemas e Informática
+-- Tópicos Avanzados en Bases de Datos
+
+
+-- ==============================================================
+
+-- Examen No 1: Análisis de Recursos Humanos 
+--              Lógica Almacenada en Base de Datos
+
+-- Motor de Base de datos: PostgreSQL 17.x
+
+-- ==============================================================
+
+
+
+|id_cargo|cargo                      |cantidad_empleados|total_pagado|
+|--------|---------------------------|------------------|------------|
+|1       |Director de Proyecto       |1                 |68.750      |
+|2       |Líder Técnico              |1                 |56.250      |
+|3       |Líder Financiero           |1                 |53.750      |
+|4       |Arquitecto UX              |1                 |20.000      |
+|5       |Diseñador UI               |1                 |16.500      |
+|6       |Investigador UX            |1                 |18.000      |
+|7       |Diseñador de Interacción   |1                 |16.500      |
+|8       |Arquitecto de Soluciones   |1                 |37.500      |
+|9       |Arquitecto de Datos        |1                 |33.750      |
+|10      |Ingeniero de Datos         |1                 |30.000      |
+|11      |Especialista APIs          |1                 |30.000      |
+|12      |Arquitecto de Seguridad    |2                 |62.500      |
+|13      |Analista de Seguridad      |2                 |50.000      |
+|14      |Ingeniero Pruebas Seguridad|2                 |43.750      |
+|15      |Líder Equipo (Máster)      |5                 |72.000      |
+|16      |Desarrollador Senior       |5                 |92.000      |
+|17      |Desarrollador Junior       |5                 |64.000      |
+|18      |Analista de Calidad        |5                 |60.000      |
+|19      |Arquitecto DevOps          |1                 |12.500      |
+|20      |Ingeniero SRE              |1                 |9.500       |
+|21      |Analista Mesa de Ayuda     |1                 |6.000       |

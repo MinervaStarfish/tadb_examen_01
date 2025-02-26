@@ -1,0 +1,64 @@
+# Ignorar archivos de configuración local
+*.env
+*.local
+*.env.local
+
+# Ignorar archivos de logs y bases de datos
+*.log
+*.sqlite
+*.db
+*.dump
+
+# Ignorar directorios de dependencias y paquetes
+/node_modules/
+/vendor/
+/.venv/
+/venv/
+/env/
+/ENV/
+
+# Ignorar archivos de compilación y binarios
+*.pyc
+*.pyo
+*.pyd
+*.class
+*.jar
+*.war
+*.ear
+*.bin
+*.exe
+*.out
+*.app
+
+# Ignorar archivos de IDE y editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración de usuario
+*.user
+*.suo
+
+# Ignorar archivos de cache y temporales
+.cache/
+.temp/
+.tmp/
+temp/
+tmp/
+
+# Ignorar archivos de documentación generados
+/docs/_build/
+/docs/_static/
+/docs/_templates/
+
+# Ignorar archivos de cobertura de pruebas
+.coverage
+htmlcov/
+.coverage.*

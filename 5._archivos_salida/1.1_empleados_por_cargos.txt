@@ -1,0 +1,44 @@
+-- Correo: mariana.osorioro@upb.edu.co
+-- Estudiante: Mariana Osorio Rojas
+-- ID: 464679
+
+
+-- Universidad Pontificia Bolivariana
+-- Facultad de Ingenierías - Ingeniería de Sistemas e Informática
+-- Tópicos Avanzados en Bases de Datos
+
+
+-- ==============================================================
+
+-- Examen No 1: Análisis de Recursos Humanos 
+--              Lógica Almacenada en Base de Datos
+
+-- Motor de Base de datos: PostgreSQL 17.x
+
+-- ==============================================================
+
+
+
+|id_cargo|cargo                      |cantidad_empleados|
+|--------|---------------------------|------------------|
+|1       |Director de Proyecto       |1                 |
+|2       |Líder Técnico              |1                 |
+|3       |Líder Financiero           |1                 |
+|4       |Arquitecto UX              |1                 |
+|5       |Diseñador UI               |1                 |
+|6       |Investigador UX            |1                 |
+|7       |Diseñador de Interacción   |1                 |
+|8       |Arquitecto de Soluciones   |1                 |
+|9       |Arquitecto de Datos        |1                 |
+|10      |Ingeniero de Datos         |1                 |
+|11      |Especialista APIs          |1                 |
+|12      |Arquitecto de Seguridad    |2                 |
+|13      |Analista de Seguridad      |2                 |
+|14      |Ingeniero Pruebas Seguridad|2                 |
+|15      |Líder Equipo (Máster)      |5                 |
+|16      |Desarrollador Senior       |5                 |
+|17      |Desarrollador Junior       |5                 |
+|18      |Analista de Calidad        |5                 |
+|19      |Arquitecto DevOps          |1                 |
+|20      |Ingeniero SRE              |1                 |
+|21      |Analista Mesa de Ayuda     |1                 |

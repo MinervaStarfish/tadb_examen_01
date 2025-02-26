@@ -1,0 +1,24 @@
+-- Correo: mariana.osorioro@upb.edu.co
+-- Estudiante: Mariana Osorio Rojas
+-- ID: 464679
+
+
+-- Universidad Pontificia Bolivariana
+-- Facultad de Ingenierías - Ingeniería de Sistemas e Informática
+-- Tópicos Avanzados en Bases de Datos
+
+
+-- ==============================================================
+
+-- Examen No 1: Análisis de Recursos Humanos 
+--              Lógica Almacenada en Base de Datos
+
+-- Motor de Base de datos: PostgreSQL 17.x
+
+-- ==============================================================
+
+
+
+|f_calcula_costo_departamento_quincena|
+|-------------------------------------|
+|7.150                                |
