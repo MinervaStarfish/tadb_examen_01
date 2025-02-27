@@ -1,0 +1,14 @@
+Universidad Pontificia Bolivariana
+Programas de Ingeniería en Sistemas e Informática – Ingeniería en Ciencia de Datos
+Curso de Tópicos Avanzados de Base de Datos
+NRC: 20407, 20602 – Periodo 202510
+Docente: Juan Darío Rodas - juand.rodasm@upb.edu.co
+
+
+-- ============================================================ --
+-- Marca de recepción de examen No. 1
+-- Hasta este punto se considera entrega del examen
+-- Repositorio: https://github.com/MinervaStarfish/tadb_examen_01
+-- Commit límite: 5ef8d8470146c18c3e4fe34fe45f50c13f8c4523
+-- ============================================================ --
+
